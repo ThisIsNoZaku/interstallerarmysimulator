@@ -1,0 +1,2 @@
+
+To load a mod, unzip a correctly constructed .zip file into this folder.  When the game starts it will load image/text settings.
